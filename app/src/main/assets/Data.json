@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Java",
+    "desc": "Programming language"
+  },
+  {
+    "name": "Kotlin",
+    "desc": "Programming language"
+  },
+  {
+    "name": "C",
+    "desc": "Programming language"
+  },
+  {
+    "name": "C++",
+    "desc": "Programming language"
+  },
+  {
+    "name": "Python",
+    "desc": "Programming language"
+  },
+  {
+    "name": "JavaScript",
+    "desc": "Programming language"
+  },
+  {
+    "name": "Go",
+    "desc": "Programming language"
+  },
+  {
+    "name": "C#",
+    "desc": "Programming language"
+  },
+  {
+    "name": "PHP",
+    "desc": "Programming language"
+  },
+  {
+    "name": "Swift",
+    "desc": "Programming language"
+  }
+]
